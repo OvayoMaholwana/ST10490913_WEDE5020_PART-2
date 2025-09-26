@@ -13,4 +13,8 @@ Screenshot
 https://github.com/OvayoMaholwana/ST10490913_WEDE5020_PART-2/blob/main/Screenshot%202025-09-26%20095041.png
 <img width="1023" height="667" alt="Screenshot 2025-09-26 095041" src="https://github.com/user-attachments/assets/24322773-65bc-43dc-a97a-01e1165ccbfe" />
 
+https://github.com/OvayoMaholwana/ST10490913_WEDE5020_PART-2/blob/main/Screenshot%202025-09-26%20095926.png
+<img width="1591" height="741" alt="Screenshot 2025-09-26 095453" src="https://github.com/user-attachments/assets/6023c5ed-e8b8-4b7e-af93-ce3cae2d99b2" />
 
+
+<img width="1586" height="805" alt="Screenshot 2025-09-26 095926" src="https://github.com/user-attachments/assets/7adfb756-7a7f-4a32-ba19-8f6edb724685" />
