@@ -10,5 +10,7 @@ Unsplash, 2025. Free Animal Images. Available at: https://unsplash.com [Accessed
 W3Schools, 2025. HTML Semantic Elements. Available at: https://www.w3schools.com/html/html5_semantic_elements.asp [Accessed 18 August 2025]. 
 
 Screenshot
+https://github.com/OvayoMaholwana/ST10490913_WEDE5020_PART-2/blob/main/Screenshot%202025-09-26%20095041.png
+<img width="1023" height="667" alt="Screenshot 2025-09-26 095041" src="https://github.com/user-attachments/assets/24322773-65bc-43dc-a97a-01e1165ccbfe" />
 
 
